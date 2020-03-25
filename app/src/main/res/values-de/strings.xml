@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RechnerTopolovec</string>
+    <string name="theme">Thema</string>
+    <string name="language">Sprache wechseln:</string>
+    <string name="fuel">"Kraftstoffverbrauch: "</string>
+    <string name="fuel_notice">Kraftstoffverbrauch!</string>
+    <string name="distance">"Kilometer (km) gefahren: "</string>
+    <string name="distance_notice">Kilometer (km) gefahren!</string>
+    <string name="calculate">Berechnung</string>
+    <string name="fuel_error">Kraftstoffverbrauch wurde nicht eingegeben!</string>
+    <string name="distance_error">Die zurückgelegte Strecke wurde nicht eingegeben!</string>
+    <string name="before">Kraftstoffverbrauch:</string>
+</resources>

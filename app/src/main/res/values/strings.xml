@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorTopolovec</string>
+    <string name="theme">Theme</string>
+    <string name="fuel">Fuel spent:</string>
+    <string name="fuel_notice">Fuel spent!</string>
+    <string name="distance">Kilometers (km) driven:</string>
+    <string name="distance_notice">Kilometers (km) driven!</string>
+    <string name="calculate">Calculate</string>
+    <string name="fuel_error">Fuel consumed was not entered!</string>
+    <string name="distance_error">Distance traveled was not entered!</string>
+    <string name="before">Fuel consumption:</string>
+</resources>

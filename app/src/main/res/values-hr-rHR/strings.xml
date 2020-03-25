@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorTopolovec</string>
+    <string name="theme">Tema</string>
+    <string name="language">"Promjeni jezik: "</string>
+    <string name="fuel">"Potrošeno gorivo: "</string>
+    <string name="fuel_notice">Potrošeno gorivo!</string>
+    <string name="distance">"Prijeđeno kilometara: "</string>
+    <string name="distance_notice">Prijeđeno kilometara!</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="fuel_error">Potrošeno gorivo nije unešeno!</string>
+    <string name="distance_error">Duljina puta nije unešena!</string>
+    <string name="before">Potrošnja goriva:</string>
+</resources>
