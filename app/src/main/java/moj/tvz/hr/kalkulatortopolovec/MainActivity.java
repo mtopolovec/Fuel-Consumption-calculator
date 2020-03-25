@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         ((TextView) findViewById(R.id.km)).setText(distanceString);
         ((TextView) findViewById(R.id.distance)).setHint(distance_noticeString);
 
-        ((Button) findViewById(R.id.calculate)).setHint(calculateString);
+        ((Button) findViewById(R.id.calculate)).setText(calculateString);
 
     }
 
